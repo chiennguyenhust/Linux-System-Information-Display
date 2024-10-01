@@ -10,3 +10,6 @@ Cấu hình phần cứng:
 - **SSD1306_SDA:   Connected to P9_20
 - **SSD1306_GND:   Connected to P9_01 
 - **SSD1306_VCC:   Connected to P9_07
+
+  ![image](https://github.com/user-attachments/assets/acdbdecf-df68-4bd4-aeb8-cbbc49a74272)
+
